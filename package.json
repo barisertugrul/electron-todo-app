@@ -1,0 +1,19 @@
+{
+  "name": "electron-todo",
+  "productName": "Electron.js TODO App",
+  "version": "1.0.0",
+  "description": "TODO App via Electron.js",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Barış ERTUĞRUL | ERT Yazılım",
+  "license": "ISC",
+  "dependencies": {
+    "mysql": "^2.18.1"
+  },
+  "devDependencies": {
+    "electron": "^23.1.3",
+    "electron-packager": "^17.1.1"
+  }
+}
