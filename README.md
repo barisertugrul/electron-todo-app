@@ -1,6 +1,6 @@
 # electron-todo-app
 
-### Setup for development
+### Install for development
 - 1- Download the zip file and unzip it to the folder
 - 2- Run the `npm install` command in the terminal located in the folder where the files are located.
 - 3- Create a database on your Mysql server and import the db/vtetodo.sql file.
